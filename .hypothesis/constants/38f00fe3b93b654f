@@ -1,0 +1,4 @@
+# file: /Users/Yuvraj/Desktop/agisdk/src/agi_agents/qwen/tools.py
+# hypothesis_version: 6.148.2
+
+[100, 300, 1000, '+', 'AgentBrowser', 'AgentState', 'click', 'content', 'direction', 'double_click', 'down', 'drag', 'end_point_2d', 'expanded', 'finished', 'goto', 'height', 'hotkey', 'hover', 'key', 'left', 'pixels', 'point_2d', 'press_and_hold', 'right', 'scroll', 'select', 'start_point_2d', 'triple_click', 'type', 'up', 'url', 'width']

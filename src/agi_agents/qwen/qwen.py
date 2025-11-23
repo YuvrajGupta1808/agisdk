@@ -37,7 +37,7 @@ class QwenAgent(BaseAgent):
     def __init__(
         self,
         # model: str = "qwen3-vl-plus",
-        model: str = "qwen/qwen3-vl-235b-a22b-thinking",
++       model: str = "openai/gpt-4o",
         date_mode: str = "current",
         base_url: str | None = None,
         api_key: str | None = None,
@@ -47,7 +47,7 @@ class QwenAgent(BaseAgent):
         assert date_mode in ["fixed", "current"]
 
         # Use environment variable if available, otherwise use hardcoded key
-        api_key = api_key or "your-openrouter-api-key"
+        api_key = api_key or "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"
         base_url = (base_url or "https://openrouter.ai/api/v1").rstrip("/")
         self.client = AsyncOpenAI(
             base_url=base_url,

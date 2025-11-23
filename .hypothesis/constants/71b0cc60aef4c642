@@ -1,0 +1,4 @@
+# file: /Users/Yuvraj/Desktop/agisdk/src/agi_agents/qwen/vision_model.py
+# hypothesis_version: 6.148.2
+
+[0.0, 0.5, 1.0, 200, 500, 1000, 1024, 2048, 9800, '.jpg', '/', 'Element not found', 'JPEG', 'Unknown error', '```', '```json', 'agi', 'attempt', 'attributes', 'available_elements', 'confidence', 'content', 'content_summary', 'coordinates', 'element_id', 'element_type', 'elements', 'elements_count', 'error', 'fallback', 'field_type', 'found', 'has_image', 'image/jpeg', 'image_url', 'label', 'llm', 'max_pixels', 'max_tokens', 'message', 'messages', 'min_pixels', 'model', 'page_analysis', 'page_type', 'prompt', 'prompt_preview', 'reason', 'role', 'screenshot_size', 'temperature', 'text', 'type', 'unknown', 'url', 'user', 'utf-8', 'vision_model_analyze', 'wb']

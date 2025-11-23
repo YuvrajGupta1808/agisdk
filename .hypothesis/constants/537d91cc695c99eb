@@ -1,0 +1,4 @@
+# file: /Users/Yuvraj/Desktop/agisdk/src/agi_agents/orchestrator.py
+# hypothesis_version: 6.148.2
+
+[0.0, 0.5, 2048, '# Execution Error', '# Instructions', '/', 'Available Elements:', 'Available elements:', 'Remaining Actions:', 'Unknown error', '```', '```json', 'action_type', 'actions', 'actions_count', 'agi-llm', 'attempt', 'content', 'context', 'current_plan_actions', 'description', 'element_description', 'elements_count', 'error', 'fallback', 'goal', 'goto', 'has_error', 'has_location_failure', 'info_query', 'is_navigation', 'llm', 'llm_call_step', 'message', 'messages', 'model', 'openai/gpt-4o', 'page', 'page_type', 'parameters', 'plan', 'reasoning', 'retries', 'revision_count', 'role', 'scroll', 'seconds', 'system', 'target', 'target_element_id', 'tool_call', 'tool_name', 'type', 'user', 'wait']

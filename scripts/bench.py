@@ -7,14 +7,14 @@ from arena import RunHarness
 async def main():
 
     agent = QwenAgent(
-        api_key="your-openrouter-api-key"
+        api_key="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"
     )
 
     print("[DEBUG] Creating RunHarness...")
     harness = RunHarness(
         agent=agent,
         tasks=[
-            "src/benchmarks/hackathon/tasks/gocalendar-9.json"
+            "src/benchmarks/hackathon/tasks/gomail-6.json"
         ],
         parallel=1,
         sample_count=1,

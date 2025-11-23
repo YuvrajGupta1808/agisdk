@@ -1,0 +1,4 @@
+# file: /Users/Yuvraj/Desktop/agisdk/src/arena/browser.py
+# hypothesis_version: 6.148.2
+
+[-118.2437, 34.0522, 720, 1280, 30000, 'Accept-Language', 'AgentBrowser', 'America/Los_Angeles', 'en-US', 'en-US,en;q=0.9', 'extra_http_headers', 'geolocation', 'height', 'jpeg', 'latitude', 'load', 'locale', 'longitude', 'page', 'permissions', 'proxy-select.css', 'proxy-select.js', 'r', 'timezone_id', 'utf-8', 'viewport', 'width']
